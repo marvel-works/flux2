@@ -5,7 +5,7 @@ go 1.15
 require (
 	github.com/blang/semver/v4 v4.0.0
 	github.com/fluxcd/helm-controller/api v0.4.2
-	github.com/fluxcd/image-automation-controller/api v0.0.0-20201201094634-027370a62fc9
+	github.com/fluxcd/image-automation-controller/api v0.0.0-20201207152949-38671db8165d
 	github.com/fluxcd/image-reflector-controller/api v0.0.0-20201204132619-7ea5515fd173
 	github.com/fluxcd/kustomize-controller/api v0.4.0
 	github.com/fluxcd/notification-controller/api v0.4.0
