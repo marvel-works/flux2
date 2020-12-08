@@ -2,6 +2,8 @@ module github.com/fluxcd/flux2
 
 go 1.15
 
+replace github.com/fluxcd/source-controller/api => github.com/fluxcd/source-controller/api v0.4.2-0.20201208114543-86712ff4413e
+
 require (
 	github.com/blang/semver/v4 v4.0.0
 	github.com/fluxcd/helm-controller/api v0.4.2
